@@ -115,5 +115,12 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="mockito-core-2.23.4-sources">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/mockito-core-2.23.4-sources.jar!/" />
+      </SOURCES>
+    </library>
   </component>
 </application>
